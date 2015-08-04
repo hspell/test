@@ -1,2 +1,3 @@
-# test
-Privacy costs $7/mo
+# testgit
+
+This is a test for Coda.
